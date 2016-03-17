@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Baby Birthdays</string>
+    <string name="no_birthdays">Use menu to enter a birthday</string>
+    <string name="menu_insert">Add Birthday</string>
+    <string name="menu_delete">Delete Birthday</string>
+    <string name="name">Name</string>
+    <string name="birthdate">Birth Date</string>
+    <string name="birthday">Birthday</string>
+    <string name="age">Age</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_birthday">Edit Birthday</string>
+    <string name="years">years</string>
+    <string name="year">year</string>
+    <string name="months">months</string>
+    <string name="month">month</string>
+    <string name="weeks">weeks</string>
+    <string name="week">week</string>
+    <string name="days">days</string>
+    <string name="day">day</string>
+    
+</resources>
